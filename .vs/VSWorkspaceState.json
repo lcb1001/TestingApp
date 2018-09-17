@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\hello-ionic",
+    "\\src\\pages\\home",
+    "\\www",
+    "\\www\\build"
+  ],
+  "SelectedNode": "\\src\\pages\\hello-ionic\\hello-ionic.html",
+  "PreviewInSolutionExplorer": false
+}
